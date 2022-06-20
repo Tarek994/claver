@@ -1,3 +1,3 @@
 # new project
-This is test file
+This is a test file.
  ------ Welcome ------
